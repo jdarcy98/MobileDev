@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">FC Barcelona</string>
+
+    <string-array name="players">
+        <item>ter Stegen</item>
+        <item>Semedo</item>
+        <item>Piqué</item>
+        <item>Rakitić</item>
+        <item>Busquets</item>
+        <item>D. Suarez</item>
+        <item>Coutinho</item>
+        <item>Arthur</item>
+        <item>L. Suarez</item>
+        <item>Messi</item>
+        <item>Dembelé</item>
+        <item>Rafinha</item>
+        <item>Cillessen</item>
+        <item>Malcom</item>
+        <item>Lenglet</item>
+        <item>Alba</item>
+        <item>Roberto</item>
+        <item>Vidal</item>
+        <item>Umtiti</item>
+    </string-array>
+
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>23</item>
+
+    </string-array>
+
+    <string-array name="countries">
+        <item>Germany - Goalkeeper</item>
+        <item>Portugal - Defender</item>
+        <item>Spain - Defender</item>
+        <item>Croatia - Midfielder</item>
+        <item>Spain - Midfielder</item>
+        <item>Spain - Midfielder</item>
+        <item>Brazil - Forward</item>
+        <item>Brazil - Midfielder</item>
+        <item>Uruguay - Forward</item>
+        <item>Argentina - Forward</item>
+        <item>France - Forward</item>
+        <item>Brazil - Midfielder</item>
+        <item>Holland - Goalkeeper</item>
+        <item>Brazil - Forward</item>
+        <item>France - Defender</item>
+        <item>Spain - Defender</item>
+        <item>Spain - Defender</item>
+        <item>Chile - Midfielder</item>
+        <item>France - Defender</item>
+    </string-array>
+</resources>
